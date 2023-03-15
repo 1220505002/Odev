@@ -1,0 +1,13 @@
+Algoritmayı analiz etmek, bir algoritmanın performansını ölçmek ve geliştirmek için önemlidir. Bir algoritmanın verimliliği, hesaplama zamanı ve bellek kullanımı gibi faktörlere bağlıdır. Analiz, bir algoritmanın ne kadar hızlı çalıştığını, ne kadar bellek kullandığını ve hangi veri boyutlarında performansının nasıl etkilendiğini belirlemek için kullanılır.
+
+Algoritma analizi yapmak için, öncelikle algoritmanın çalışma mantığını anlamak gerekir. Algoritmanın hangi verileri aldığını, bu verileri nasıl işlediğini ve hangi sonuçları ürettiğini anlamak gerekir. Daha sonra, algoritmanın performansını ölçmek için farklı veri boyutları üzerinde denemeler yapmak gerekebilir.
+
+Bir algoritmanın performansını ölçmek için kullanılan bazı temel teknikler şunlardır:
+
+Zamana Göre Analiz: Algoritmanın çalışma süresi ölçülür ve algoritmanın performansı, girdi verilerinin boyutuna göre nasıl değiştiğine bağlı olarak analiz edilir.
+
+Bellek Kullanımına Göre Analiz: Algoritmanın bellek kullanımı ölçülür ve bellek kullanımının girdi verilerinin boyutuna göre nasıl değiştiği analiz edilir.
+
+Asimptotik Analiz: Algoritmanın en kötü durum performansı belirlenir ve girdi verilerinin boyutuna göre bu performansın nasıl değiştiği analiz edilir.
+
+Algoritma analizi yapmak, daha iyi performans elde etmek için algoritmayı geliştirmek için yararlıdır. Analiz sonuçları, bir algoritmanın ne kadar iyi veya kötü olduğunu ve hangi koşullarda en iyi sonucu verdiğini anlamak için kullanılabilir.
